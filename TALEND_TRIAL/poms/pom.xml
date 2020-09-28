@@ -10,6 +10,8 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/AgileIntegration/job_mdm_010_ftp_itembomload_0.2</module>
+    <module>jobs/process/AgileIntegration/job_mdm_020_oracle_itembomcreation_0.2</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
